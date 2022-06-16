@@ -1,6 +1,6 @@
 name: ci 
 on:
-  push:
+  commit:
     branches:
       - master 
       - main
